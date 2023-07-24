@@ -1,0 +1,52 @@
+body{
+    background-color: #ECE5C7;
+}
+.container {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+color: #116A7B;
+    padding: 2%;
+}
+
+section{
+    margin: 3em;
+}
+
+input {
+    border: 2px solid #C2DEDC;
+}
+textarea{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid #C2DEDC;
+}
+
+textarea:focus, input:focus{
+    outline: 2px solid #116A7B;
+}
+
+.button {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border-radius: 7%;
+    height: 3rem;
+    width: 8rem;
+    font-weight: bold;
+}
+
+.check{
+    background-color: #116A7B;
+    color: #C2DEDC;
+}
+.reset{
+    background-color: #C2DEDC;
+    color: #116A7B;
+}
+.message{
+    font-size: 1.3rem;
+}
+.success{
+    color: rgb(4, 250, 4);
+}
+.warning{
+    color: red;
+}
