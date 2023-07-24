@@ -2,8 +2,11 @@
 
 Find if a string respects the given regex constraint.
 
-![ScreenShot Empty](./screenshot-empty.png)
+## Screenshot of the empty form
+<img src="./screenshot-empty.png" alt="screenshot empty form" style="width:500px;"/>
 
-![ScreenShot Example](./screenshot-example-yes.png)
+## Screenshot of a success
+<img src="./screenshot-example-yes.png" alt="screenshot example success" style="width:500px;"/>
 
-![ScreenShot Example](./screenshot-example-no.png)
+## Screenshot of a failure
+<img src="./screenshot-example-no.png" alt="screenshot example failure" style="width:500px;"/>
